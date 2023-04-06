@@ -10,11 +10,9 @@ This might be useful is one interested in keeping a human interpretable file str
 
 ### Install from source
 
-This method is useful if you want to have the packages installed while developing them and make use of pip's "editable" installs (i.e the ability to change code dynamically without reinstalling.)
-
-Clone the repository from github and install it from source.
+Clone the repository from github and install it from source using poetry.
 ```
-pip install --editable /path/to/file-disk-cache
+poetry install
 ```
 
 ## Releasing
