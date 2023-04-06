@@ -6,9 +6,6 @@ It extends the functionality of the original disk cache package by allowing user
 
 This might be useful is one interested in keeping a human interpretable file structure within their file cache.
 
-## Usage
-The 
-
 ## Installation
 
 ### Install from source
