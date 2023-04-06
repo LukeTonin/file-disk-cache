@@ -1,0 +1,2 @@
+recursive-include file_disk_cache *.json
+recursive-include file_disk_cache *.yaml
